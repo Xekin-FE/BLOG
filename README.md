@@ -1,12 +1,8 @@
-﻿# BLOG
-写一个看看我的文件给别人介绍一下你的项目其实爱写不写呵呵呵
+# BLOG
+ 
+# Language Stack: 
 
-
-我改一下文件内容啦啦啦
-
-我现在改了文件内容了
-
-跟在网站上那个文件不一样了
-
-刚刚的
- 测试一下
+#### Front-End : Vue3.x & Vuex & Less & Antd-ui(for vue) & Node.js(for server)
+#### buildTool: Webpack
+#### Back-End : Python3 & Django
+#### TestFrame : karma & Jasmine
