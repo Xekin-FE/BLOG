@@ -2,7 +2,7 @@
  
 ### Language Stack: 
 
-#### Front-End : Vue3.x & Vuex & Less & Antd-ui(for vue) & Node.js(for server)
-#### buildTool: Webpack
+#### Front-End : React16.x & Redux & Less & Antd-ui & Node.js(for server)
+#### buildTool: Webpack 4
 #### Back-End : Python3 & Django
 #### TestFrame : karma & Jasmine
